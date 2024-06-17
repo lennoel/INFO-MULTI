@@ -18,7 +18,7 @@ include "cabeza.inc.php";
 
                         <p>¡Banco Central Grinshow te ofrece una oferta que no podrás rechazar!<br><br>
 
-                            ¿Necesitas dinero rápido? <br><br>
+                            ¿Necesitas dine ro rápido? <br><br>
                             ¡Nosotros te lo prestamos al increíblemente bajo interés del 1000%!<br><br>
 
                             ¡Sí, has leído bien! Te prestamos dinero al 1000% de interés. <br><br>
